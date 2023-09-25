@@ -1,0 +1,1 @@
+<h1 style="color: #F9A30D"; align="center">Aplikasi Sewa buku</h1><?php /**PATH C:\xampp\htdocs\sewa_buku_laravel\sewa_buku_laravel\resources\views/layout/header.blade.php ENDPATH**/ ?>
